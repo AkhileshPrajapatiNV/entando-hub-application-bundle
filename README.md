@@ -1,0 +1,1 @@
+# entando-hub-application-bundle
